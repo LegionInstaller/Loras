@@ -1,2 +1,2 @@
 # Loras
-https://i.imgur.com/aMg4Rzi.png
+https://imgur.com/aMg4Rzi
